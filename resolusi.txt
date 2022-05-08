@@ -6,4 +6,4 @@
 - belajar laravel lebih dalam
 - belajar tailwind
 - membuat design sederhana menggunakan tailwind (web profile dan web admin)
-- Keep Focus (Sfa)
+- Keep Focus (Sus)
