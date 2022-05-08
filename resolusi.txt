@@ -5,5 +5,5 @@
 - mengubah aplikasi sederhana yang sudah dibuat dengan orm
 - belajar laravel lebih dalam
 - belajar tailwind
-- membuat design sederhana menggunakan tailwind
-- Keep Focus (Sofia ulan sari bismillah halal)
+- membuat design sederhana menggunakan tailwind (web profile dan web admin)
+- Keep Focus (Sus)
